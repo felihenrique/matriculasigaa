@@ -1,0 +1,93 @@
+{"data": [
+    {
+        "nome": "Linguagem de programção I",
+        "carga_horaria": "60",
+        "ementa": "-- Ementa da disciplina --",
+        "abreviacao": "LP I",
+        "horario": "35M12",
+        "codigo": "IMD1234",
+        "professor": "João da Silva",
+        "data_inicio": "01/02/2018",
+        "data_fim": "27/06/2018",
+        "vagas": 40,
+        "local": "A301"
+    },
+    {
+        "nome": "Linguagem de programção I",
+        "carga_horaria": "60",
+        "ementa": "-- Ementa da disciplina --",
+        "abreviacao": "LP I",
+        "horario": "24M34",
+        "codigo": "IMD1235",
+        "professor": "Gabriela Bezerra",
+        "data_inicio": "01/02/2018",
+        "data_fim": "27/06/2018",
+        "vagas": 40,
+        "local": "A302"
+    },
+    {
+        "nome": "Linguagem de programção II",
+        "carga_horaria": "60",
+        "ementa": "-- Ementa da disciplina --",
+        "abreviacao": "LP II",
+        "codigo": "IMD1236",
+        "horario": "24T34",
+        "professor": "Mateus Costa",
+        "data_inicio": "01/02/2018",
+        "data_fim": "27/06/2018",
+        "vagas": 40,
+        "local": "A303"
+    },
+    {
+        "nome": "Linguagem de programção II",
+        "carga_horaria": "60",
+        "ementa": "-- Ementa da disciplina --",
+        "abreviacao": "LP II",
+        "codigo": "IMD1237",
+        "horario": "14T56",
+        "professor": "Mario Vieira",
+        "data_inicio": "01/02/2018",
+        "data_fim": "27/06/2018",
+        "vagas": 40,
+        "local": "A304"
+    },
+    {
+        "nome": "Redes de computadores",
+        "carga_horaria": "60",
+        "ementa": "-- Ementa da disciplina --",
+        "abreviacao": "RC",
+        "codigo": "IMD1238",
+        "horario": "25T34",
+        "professor": "Maria Oliveira",
+        "data_inicio": "01/02/2018",
+        "data_fim": "27/06/2018",
+        "vagas": 40,
+        "local": "A305"
+    },
+    {
+        "nome": "Organização e arquitetura de computadores",
+        "carga_horaria": "60",
+        "ementa": "-- Ementa da disciplina --",
+        "abreviacao": "OAC",
+        "codigo": "IMD1239",
+        "horario": "24T34",
+        "professor": "Gabriel Junior",
+        "data_inicio": "01/02/2018",
+        "data_fim": "27/06/2018",
+        "vagas": 40,
+        "local": "A306"
+    },
+    {
+        "nome": "Projeto de interfaces de usuário",
+        "carga_horaria": "60",
+        "ementa": "-- Ementa da disciplina --",
+        "abreviacao": "PIU",
+        "horario": "46T12",
+        "codigo": "IMD1210",
+        "professor": "Jair Leite",
+        "data_inicio": "01/02/2018",
+        "data_fim": "27/06/2018",
+        "vagas": 40,
+        "local": "A307"
+    }
+]}
